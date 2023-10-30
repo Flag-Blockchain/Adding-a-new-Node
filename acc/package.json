@@ -1,0 +1,19 @@
+{
+  "name": "get_privatekey_from_validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "web3": "^1.9.0"
+  }
+}
